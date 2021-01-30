@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(126, 166, 226);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(126, 166, 226);
+    padding-left: 20%;
+    font-family: Courier;
+}
+
+.topnav a {
+    float: left;
+    color: #080808;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: rgb(47, 105, 172);
+    color: white;
+}
+
+.descrip {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.imagen {
+    height: auto;
+    width: auto;
+    max-width: 740px;
+    max-height: 300px;
+}
+
+.musica {
+    text-align: center;
+}
+
+.videos {
+    text-align: center;
+}
+
+table{
+    border:solid;
+    text-align: center;
+    border-radius: 15px;
+}
+
+footer {
+    text-align: center;
+}
